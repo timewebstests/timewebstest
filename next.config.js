@@ -5,4 +5,5 @@ module.exports = {
     images: {
       domains: ['cdn.weatherapi.com'],
     },
+    output: "export"
   };
