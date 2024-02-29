@@ -1,0 +1,11 @@
+Model Information:
+* title:	Final House
+* source:	https://sketchfab.com/3d-models/final-house-20ea8edb2b7043b1a98a0b6ae18684bb
+* author:	Anton Revutsky (https://sketchfab.com/anton.revutsky)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Final House" (https://sketchfab.com/3d-models/final-house-20ea8edb2b7043b1a98a0b6ae18684bb) by Anton Revutsky (https://sketchfab.com/anton.revutsky) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)

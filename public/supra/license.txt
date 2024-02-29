@@ -1,0 +1,11 @@
+Model Information:
+* title:	Toyota Supra MK4 Custom
+* source:	https://sketchfab.com/3d-models/toyota-supra-mk4-custom-8aff0df1fea24654802cb16e07f3115f
+* author:	blakebella (https://sketchfab.com/blake2theback)
+
+Model License:
+* license type:	CC-BY-NC-SA-4.0 (http://creativecommons.org/licenses/by-nc-sa/4.0/)
+* requirements:	Author must be credited. No commercial use. Modified versions must have the same license.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Toyota Supra MK4 Custom" (https://sketchfab.com/3d-models/toyota-supra-mk4-custom-8aff0df1fea24654802cb16e07f3115f) by blakebella (https://sketchfab.com/blake2theback) licensed under CC-BY-NC-SA-4.0 (http://creativecommons.org/licenses/by-nc-sa/4.0/)
