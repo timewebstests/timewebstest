@@ -60,7 +60,7 @@ function Navbar() {
                     </div>
 
                     <Link href="/" className="z-[400]">
-                        <Image src="/white.png" width={150} height={150} alt="Logo" className=''/>
+                        <Image src="./white.png" width={150} height={150} alt="Logo" className=''/>
                     </Link>
 
                     <div></div>
